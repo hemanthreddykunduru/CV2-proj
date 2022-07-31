@@ -1,4 +1,4 @@
-# importing essantials
+# importing essential libraries
 from imutils.video import VideoStream
 import argparse
 import datetime
